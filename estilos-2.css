@@ -1,0 +1,17 @@
+.mainHeader{
+    min-height: 5rem;
+}
+
+img , svg , iframe{
+
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
